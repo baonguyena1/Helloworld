@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "9d78e728f18fc02191bfeb6f38e0d686"
+build_time: [1521430657, 771519000]
+inputs:
+  "/Users/baonguyen/Desktop/Helloworld/Helloworld/ViewController.swift": [9223372036, 854775807]
+  "/Users/baonguyen/Desktop/Helloworld/Helloworld/AppDelegate.swift": [9223372036, 854775807]
